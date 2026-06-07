@@ -1,4 +1,4 @@
-# print("Hello world")
+#print(Hello Everyone")
 #Hey i m fine dear , what about u ?
 # '''This is also comments in python called multi-line comments'''
 # cv ="My life line best decision"
