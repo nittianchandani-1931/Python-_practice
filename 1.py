@@ -1,5 +1,5 @@
-# print("Hello baby")
-#Hey i m fine baby , what about u ?
+# print("Hello world")
+#Hey i m fine dear , what about u ?
 # '''This is also comments in python called multi-line comments'''
 # cv ="My life line best decision"
 # DOM = 31 
@@ -11,7 +11,7 @@ print (" The value of 31 * 19 = " , 31 * 19)
 print (" The value of 31 / 19 = " , 31 / 19)
 print (" The value of 31 ** 19 = " , 31 ** 19)
 print (" The value of 31 // 19 = " , 31 // 19)   # fluid divison
-print("This my love \"")
+print("This my first class \"")
 
 mls ='''This is multiline string and this will keep going and going'''
 print(mls)
